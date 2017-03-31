@@ -1,0 +1,6 @@
+C:\@\RPS\RPS\bin\Debug\RPS.exe.config
+C:\@\RPS\RPS\bin\Debug\RPS.exe
+C:\@\RPS\RPS\bin\Debug\RPS.pdb
+C:\@\RPS\RPS\obj\Debug\RPS.csprojResolveAssemblyReference.cache
+C:\@\RPS\RPS\obj\Debug\RPS.exe
+C:\@\RPS\RPS\obj\Debug\RPS.pdb
